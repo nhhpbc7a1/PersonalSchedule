@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#B6B6B6</color>
+    <color name="black">#000000</color>
+
+    <!-- Priority colors -->
+    <color name="priority_high">#F44336</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#4CAF50</color>
+
+    <!-- Background colors -->
+    <color name="today_background">#E3F2FD</color>
+    <color name="detail_item_background">#F5F5F5</color>
+    <color name="selectable_item_background">#EEEEEE</color>
+
+    <!-- New colors from Google Calendar -->
+    <color name="colorPrimary">#1A73E8</color>
+    <color name="colorPrimaryDark">#0D5BCA</color>
+    <color name="colorAccent">#1A73E8</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorBackground">#F1F3F4</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSurface">#202124</color>
+    <color name="colorOnBackground">#202124</color>
+    <color name="colorTextPrimary">#202124</color>
+    <color name="colorTextSecondary">#5F6368</color>
+    <color name="colorDivider">#DADCE0</color>
+    <color name="colorFloatingAction">#1A73E8</color>
+    <color name="colorRed">#EA4335</color>
+    <color name="colorGreen">#34A853</color>
+    <color name="colorYellow">#FBBC04</color>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý Lịch trình Cá nhân</string>
+
+    <!-- Main screen -->
+    <string name="add_event">Thêm sự kiện</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="no_events">Không có sự kiện</string>
+    <string name="no_events_message">Không có sự kiện nào.\nChạm để tạo mới!</string>
+    <string name="no_events_for_month">Không có sự kiện nào trong %s.\nChạm để tạo mới!</string>
+
+    <!-- Event detail -->
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="date_and_time">Ngày và giờ</string>
+    <string name="location">Địa điểm</string>
+    <string name="description">Mô tả</string>
+    <string name="reminder">Lời nhắc</string>
+    <string name="recurrence">Lặp lại</string>
+    <string name="no_location">Không có địa điểm</string>
+    <string name="no_description">Không có mô tả</string>
+    <string name="no_reminder">Không có lời nhắc</string>
+    <string name="no_recurrence">Không lặp lại</string>
+    <string name="all_day">Cả ngày</string>
+
+    <!-- Add/Edit event -->
+    <string name="title">Tiêu đề</string>
+    <string name="title_hint">Nhập tiêu đề sự kiện</string>
+    <string name="start">Bắt đầu</string>
+    <string name="end">Kết thúc</string>
+    <string name="location_hint">Nhập địa điểm (không bắt buộc)</string>
+    <string name="description_hint">Nhập mô tả (không bắt buộc)</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="repeat_event">Lặp lại sự kiện</string>
+    <!-- Reminder options -->
+    <string name="reminder_minutes">%d phút trước</string>
+    <string name="reminder_hour">1 giờ trước</string>
+    <string name="reminder_hours">%d giờ trước</string>
+    <string name="reminder_day">1 ngày trước</string>
+
+    <!-- Recurrence options -->
+    <string name="recurrence_daily">Hàng ngày</string>
+    <string name="recurrence_weekly">Hàng tuần</string>
+    <string name="recurrence_monthly">Hàng tháng</string>
+    <string name="recurrence_yearly">Hàng năm</string>
+    <string name="recurrence_other">Lặp lại tùy chỉnh</string>
+
+    <!-- New strings for Google account -->
+    <string name="choose_account">Chọn tài khoản Google để sử dụng</string>
+    <string name="account_required">Cần tài khoản Google để sử dụng ứng dụng</string>
+</resources>
